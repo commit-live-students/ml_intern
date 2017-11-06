@@ -2,6 +2,8 @@
 
 Load the olympics dataset (olympics.csv), which was derrived from the [Wikipedia](https://en.wikipedia.org/wiki/All-time_Olympic_Games_medal_table) entry on All Time Olympic Games Medals.
 
+You can use whichever Python Libraries required.
+
 ### Question - 1:
 Create a dataframe with following data cleanup to make this file redable.
 * Create a function load_data to read CSV file and convert CSV data to dataframe.
