@@ -35,8 +35,8 @@ medals for 1 point. The function should return only the column (a Series object)
 * Return dataframe with points column and index.
 
 ### Question - 6 
-Write a function to perform k-means clustering.
-* Create a fucntion k_means
-* return 
+Write a function to perform k-means clustering for the given dataset.
+* Create a fucntion `k_means()`
+* Return 
   * Optimum value of k
   * Cluster centers
